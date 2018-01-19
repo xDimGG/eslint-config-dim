@@ -103,12 +103,15 @@
 		"no-unused-vars": ["error", { "args": "all", "argsIgnorePattern": "^_+$" }],
 		"no-use-before-define": "error",
 
-		"semi": "error",
-
+		"callback-return": "error",
 		"global-require": "error",
+		"handle-callback-err": "error",
+		"no-buffer-constructor": "error",
+		"no-new-require": "error",
 		
 		"array-bracket-newline": ["error", "consistent"],
 		"comma-style": ["error", "last"],
+		"semi": "error",
 
 		"arrow-body-style": ["error", "as-needed"],
 		"arrow-parens": ["error", "as-needed"],
