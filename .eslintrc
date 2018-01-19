@@ -106,7 +106,17 @@
 		"semi": "error",
 
 		"global-require": "error",
+		
+		"array-bracket-newline": ["error", "consistent"],
+		"comma-style": ["error", "last"],
 
-		"comma-style": ["error", "last"]
+		"arrow-body-style": ["error", "as-needed"],
+		"arrow-parens": ["error", "as-needed"],
+		"arrow-spacing": "error",
+		"constructor-super": "error",
+		"generator-star-spacing": ["error", "after"],
+		"no-class-assign": "error",
+		"prefer-const": "error",
+		"prefer-numeric-literals": "error"
 	}
 }
