@@ -1,0 +1,8 @@
+{
+	"author": "lloti <dimggyt@gmail.com> (https://dim.codes)",
+	"name": "eslint-config-dim",
+  "main": ".eslintrc.js",
+	"version": "1.0.0",
+	"description": "Dim's ESLint Config",
+	"private": true
+}
