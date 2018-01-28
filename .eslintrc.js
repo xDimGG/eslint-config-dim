@@ -106,6 +106,7 @@ module.exports = {
 		'no-void': 'error',
 		'no-with': 'error',
 		'prefer-promise-reject-errors': 'error',
+		'require-await': 'error',
 		'wrap-iife': ['error', 'inside'],
 		yoda: 'error',
 
