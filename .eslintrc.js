@@ -140,7 +140,7 @@ module.exports = {
 		indent: ['error', 'tab'],
 		'key-spacing': 'error',
 		'keyword-spacing': 'error',
-		'linebreak-style': 'error',
+		// 'linebreak-style': 'error',
 		'lines-between-class-members': 'error',
 		'no-lonely-if': 'error',
 		'no-mixed-spaces-and-tabs': 'error',
