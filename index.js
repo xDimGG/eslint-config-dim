@@ -10,6 +10,7 @@ module.exports = {
 	rules: {
 		'for-direction': 'error',
 		'getter-return': 'error',
+		'no-async-promise-executor': 'error',
 		'no-compare-neg-zero': 'error',
 		'no-cond-assign': 'error',
 		'no-constant-condition': ['error', { checkLoops: false }],
@@ -68,6 +69,7 @@ module.exports = {
 		'dot-notation': 'error',
 		eqeqeq: 'error',
 		'guard-for-in': 'error',
+		'max-classes-per-file': 'error',
 		'no-caller': 'error',
 		'no-div-regex': 'error',
 		'no-else-return': 'error',
@@ -163,6 +165,7 @@ module.exports = {
 				next: 'return',
 			},
 		],
+		'prefer-object-spread': 'error',
 		'quote-props': ['error', 'as-needed'],
 		quotes: ['error', 'single'],
 		semi: 'error',
