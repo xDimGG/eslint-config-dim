@@ -1,8 +1,8 @@
 {
-	"author": "lloti <dimggyt@gmail.com> (https://dim.codes)",
-	"name": "eslint-config-lloti",
+	"author": "Dim <skyuphigh01@gmail.com> (https://dim.codes)",
+	"name": "eslint-config-dim",
 	"main": "index.js",
 	"version": "1.0.0",
-	"description": "Lloti's ESLint Config",
+	"description": "Dim's ESLint Config",
 	"private": true
 }
